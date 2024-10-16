@@ -1,0 +1,11 @@
+{
+    "Appetizers": [
+      { "id": 1, "name": "Spring Rolls", "description": "Crispy rolls with vegetables", "price": 5.99 },
+      { "id": 2, "name": "Garlic Bread", "description": "Toasted with garlic butter", "price": 3.99 }
+    ],
+    "Main Course": [
+      { "id": 3, "name": "Pizza", "description": "Wood-fired Margherita", "price": 12.99 },
+      { "id": 4, "name": "Pasta", "description": "Penne in Alfredo sauce", "price": 10.99 }
+    ]
+  }
+  
